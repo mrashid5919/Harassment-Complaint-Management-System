@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="478.0" prefWidth="641.0" style="-fx-background-color: #333333;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UserInfo.InfoPage">
+   <children>
+      <VBox layoutX="7.0" layoutY="25.0" prefHeight="442.0" prefWidth="398.0">
+         <children>
+            <Label prefHeight="66.0" prefWidth="348.0" text="ID:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="44.0" prefHeight="53.0" prefWidth="348.0" style="-fx-background-color: transparent;" text="User Id:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="90.0" prefHeight="50.0" prefWidth="348.0" style="-fx-background-color: transparent;" text="Catagory:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="170.0" prefHeight="56.0" prefWidth="348.0" style="-fx-background-color: transparent;" text="Police Station:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="250.0" prefHeight="58.0" prefWidth="348.0" style="-fx-background-color: transparent;" text="District:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="236.0" prefHeight="58.0" prefWidth="348.0" style="-fx-background-color: transparent;" text="Status:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="295.0" prefHeight="58.0" prefWidth="348.0" style="-fx-background-color: transparent;" text="Description:" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <VBox layoutX="287.0" layoutY="25.0" prefHeight="478.0" prefWidth="398.0">
+         <children>
+            <Label fx:id="idLabel" prefHeight="66.0" prefWidth="348.0" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="userIdLabel" layoutX="10.0" layoutY="44.0" prefHeight="53.0" prefWidth="348.0" style="-fx-background-color: transparent;" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="catLabel" layoutX="10.0" layoutY="90.0" prefHeight="50.0" prefWidth="348.0" style="-fx-background-color: transparent;" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="polLabel" layoutX="10.0" layoutY="170.0" prefHeight="56.0" prefWidth="348.0" style="-fx-background-color: transparent;" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="disLabel" layoutX="10.0" layoutY="250.0" prefHeight="58.0" prefWidth="348.0" style="-fx-background-color: transparent;" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="statLabel" layoutX="10.0" layoutY="236.0" prefHeight="58.0" prefWidth="348.0" style="-fx-background-color: transparent;" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="desLabel" alignment="TOP_LEFT" layoutX="10.0" layoutY="295.0" prefHeight="110.0" prefWidth="365.0" style="-fx-background-color: transparent;" textFill="#cc1436">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

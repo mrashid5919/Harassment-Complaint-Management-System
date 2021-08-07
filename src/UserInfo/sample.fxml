@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="center" hgap="10" style="-fx-background-color: #333333;" vgap="10" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UserInfo.Controller">
+   <children>
+      <AnchorPane prefHeight="548.0" prefWidth="560.0" style="-fx-background-color: #333333;">
+         <children>
+            <VBox layoutY="48.0" prefHeight="391.0" prefWidth="542.0" style="-fx-background-color: #333333;" styleClass="white-pane" stylesheets="@../Login/stylesheet.css">
+               <children>
+                  <VBox prefHeight="68.0" prefWidth="510.0">
+                     <children>
+                        <Label fx:id="UserIdLabel" prefHeight="30.0" prefWidth="104.0" text="User Id" textFill="#cc1436" translateX="35.0" translateY="25.0">
+                           <font>
+                              <Font name="System Bold" size="20.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="UserIdText" prefHeight="30.0" prefWidth="345.0">
+                           <VBox.margin>
+                              <Insets bottom="20.0" left="120.0" right="40.0" />
+                           </VBox.margin>
+                           <font>
+                              <Font name="Times New Roman" size="16.0" />
+                           </font>
+                        </TextField>
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="88.0" prefWidth="542.0">
+                     <children>
+                        <Label fx:id="NameLabel" prefHeight="20.0" prefWidth="83.0" text="Name" textFill="#cc1436" translateX="35.0" translateY="25.0">
+                           <font>
+                              <Font name="System Bold" size="20.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="NameText" prefHeight="30.0" prefWidth="345.0">
+                           <VBox.margin>
+                              <Insets bottom="20.0" left="120.0" right="40.0" />
+                           </VBox.margin>
+                           <font>
+                              <Font name="Times New Roman" size="16.0" />
+                           </font>
+                        </TextField>
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="110.0" prefWidth="542.0">
+                     <children>
+                        <Label fx:id="EmailLabel" prefHeight="30.0" prefWidth="88.0" stylesheets="@../Login/stylesheet.css" text="E-mail" textFill="#cc1436" translateX="35.0" translateY="25.0">
+                           <font>
+                              <Font name="System Bold" size="20.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="MailText" prefHeight="30.0" prefWidth="345.0">
+                           <VBox.margin>
+                              <Insets bottom="20.0" left="120.0" right="40.0" />
+                           </VBox.margin>
+                           <font>
+                              <Font name="Times New Roman" size="16.0" />
+                           </font>
+                        </TextField>
+                     </children>
+                  </VBox>
+                  <Button fx:id="SubBut" mnemonicParsing="false" onAction="#submit" prefHeight="47.0" prefWidth="134.0" style="-fx-background-color: #cc1436; -fx-background-radius: 20;" text="Submit" translateX="200.0" translateY="50.0">
+                     <font>
+                        <Font name="System Bold" size="20.0" />
+                     </font>
+                  </Button>
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

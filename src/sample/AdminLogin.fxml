@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="600.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.AdminLoginController">
+   <children>
+      <Text fill="#bf073b" strokeType="OUTSIDE" strokeWidth="0.0" text="Login">
+         <font>
+            <Font size="73.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="30.0" />
+         </VBox.margin>
+      </Text>
+      <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Admin Name : ">
+         <font>
+            <Font size="26.0" />
+         </font>
+         <VBox.margin>
+            <Insets left="15.0" />
+         </VBox.margin>
+      </Text>
+      <HBox prefHeight="50.0" prefWidth="200.0">
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+         <children>
+            <TextField fx:id="adminname" prefHeight="52.0" prefWidth="600.0" style="-fx-background-color: transparent;" styleClass="color" stylesheets="@stylesheet.css" HBox.hgrow="ALWAYS">
+               <HBox.margin>
+                  <Insets left="15.0" right="15.0" />
+               </HBox.margin>
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="24.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </TextField>
+         </children>
+      </HBox>
+      <Text fill="WHITE" layoutX="25.0" layoutY="166.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password :">
+         <font>
+            <Font size="26.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+         </VBox.margin>
+      </Text>
+      <HBox layoutX="10.0" layoutY="186.0" prefHeight="50.0" prefWidth="200.0">
+         <children>
+            <PasswordField fx:id="password" prefHeight="50.0" prefWidth="570.0" style="-fx-background-color: transparent;" styleClass="color" stylesheets="@stylesheet.css" HBox.hgrow="ALWAYS">
+               <HBox.margin>
+                  <Insets left="15.0" right="15.0" />
+               </HBox.margin>
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="24.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </PasswordField>
+         </children>
+      </HBox>
+      <Label fx:id="label" prefHeight="40.0" prefWidth="553.0" textFill="#f5f5f5">
+         <VBox.margin>
+            <Insets left="15.0" top="30.0" />
+         </VBox.margin>
+         <font>
+            <Font name="System Bold" size="28.0" />
+         </font>
+      </Label>
+      <Button mnemonicParsing="false" onAction="#LoginAction" prefHeight="15.0" prefWidth="560.0" styleClass="trans-btn-white-border" stylesheets="@stylesheet.css" text="LOGIN" textFill="#e40000">
+         <VBox.margin>
+            <Insets left="20.0" right="20.0" top="40.0" />
+         </VBox.margin>
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Button>
+      <ImageView fx:id="imageview" fitHeight="58.0" fitWidth="73.0" onMousePressed="#BacktoMain" pickOnBounds="true" preserveRatio="true">
+         <VBox.margin>
+            <Insets bottom="24.0" top="30.0" />
+         </VBox.margin>
+         <image>
+            <Image url="@../Images/arrow.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</VBox>
