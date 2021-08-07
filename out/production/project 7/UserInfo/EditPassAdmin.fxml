@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="486.0" prefWidth="680.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UserInfo.EditPassAdmin">
+   <children>
+      <VBox layoutX="30.0" layoutY="41.0" prefHeight="370.0" prefWidth="450.0" style="-fx-background-color: #333333;">
+         <children>
+            <VBox prefHeight="68.0" prefWidth="510.0">
+               <children>
+                  <Label fx:id="PassLabel" prefHeight="18.0" prefWidth="161.0" text="Current Password" textFill="#cc1436" translateX="35.0" translateY="25.0">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font></Label>
+                  <PasswordField fx:id="Pas" prefHeight="26.0" prefWidth="316.0" translateX="40.0">
+                     <VBox.margin>
+                        <Insets left="150.0" right="60.0" />
+                     </VBox.margin>
+                  </PasswordField>
+               </children>
+            </VBox>
+            <VBox prefHeight="68.0" prefWidth="510.0">
+               <children>
+                  <Label fx:id="newPassLabel" prefHeight="18.0" prefWidth="161.0" text="New Password" textFill="#cc1436" translateX="35.0" translateY="25.0">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font></Label>
+                  <PasswordField fx:id="newPas" prefHeight="26.0" prefWidth="316.0" translateX="40.0">
+                     <VBox.margin>
+                        <Insets left="150.0" right="60.0" />
+                     </VBox.margin>
+                  </PasswordField>
+               </children>
+            </VBox>
+            <VBox prefHeight="68.0" prefWidth="510.0">
+               <children>
+                  <Label fx:id="newPassLabel2" prefHeight="18.0" prefWidth="161.0" text="Confirm Password" textFill="#cc1436" translateX="35.0" translateY="25.0">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font></Label>
+                  <PasswordField fx:id="newPas2" prefHeight="26.0" prefWidth="316.0" translateX="40.0">
+                     <VBox.margin>
+                        <Insets left="150.0" right="60.0" />
+                     </VBox.margin>
+                  </PasswordField>
+               </children>
+            </VBox>
+            <Button fx:id="SubBut" mnemonicParsing="false" onAction="#submit" prefHeight="43.0" prefWidth="112.0" style="-fx-background-color: #cc1436; -fx-background-radius: 20;" text="Submit" translateX="200.0" translateY="100.0">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font></Button>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

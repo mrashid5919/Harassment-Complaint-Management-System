@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="681.0" prefWidth="948.0" styleClass="bodybg" stylesheets="@stylesheet.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.WelcomeController">
+   <children>
+      <Text fill="#b90e0e" layoutX="148.0" layoutY="130.0" strokeType="OUTSIDE" strokeWidth="0.0" text="HARASSMENT COMPLAINT MANAGEMENT SYSTEM" wrappingWidth="712.6708984375">
+         <font>
+            <Font name="Bodoni MT Condensed Bold" size="46.0" />
+         </font>
+      </Text>
+      <Button layoutX="623.0" layoutY="411.0" mnemonicParsing="false" onAction="#LoginActionAdmin" prefHeight="45.0" prefWidth="238.0" style="-fx-background-color: transparent;" text="Admin" textFill="#c31a1a">
+         <font>
+            <Font name="Bodoni MT Poster Compressed" size="50.0" />
+         </font>
+      </Button>
+      <Button layoutX="623.0" layoutY="526.0" mnemonicParsing="false" onAction="#ClientLogin" prefHeight="45.0" prefWidth="238.0" style="-fx-background-color: transparent;" text="Client" textFill="#c31a1a">
+         <font>
+            <Font name="Bodoni MT Poster Compressed" size="50.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
