@@ -1,0 +1,87 @@
+ma12,Harassment,Ramna,Dhaka,Help me,ma12_1,Solved
+mm12,Harassment,Barisal,Barishal,Need help,mm12_1,Solved
+ava22,Verbal Abuse,Hatirjheel,Dhaka,Want justice,ava22_1,Pending
+ava22,abc,abcd,mirpur,hbushunkivdirm m ,ava22_2,Solved
+ava22,aaaa,ioji,mirpur,adg,ava22_3,Solved
+peko,buggggg,mirpur,bd,vallage na.. eto eto bug,peko_1,Pending
+rab24,a,aa,aaa,ki ,rab24_2,Pending
+mj_babui,Help,Polton,Dhaka,Help needed,mj_babui_1,Pending
+ava22,con,c,cc,dekhi ki hoy :(,ava22_6,Solved
+ava22,checking,a,aa,auto udate checking!,ava22_7,Solved
+rab,checking 2,e,e2,wellll,rab_1,Pending
+ava22,55,a,a,klvdid,ava22_8,Solved
+ava22,24,2,22,ahha,ava22_9,Pending
+ava22,checking 2,as,asap,again checking...,ava22_10,Pending
+ava22,check3,a,a,............,ava22_10,Solved
+rab,check,c,cc,welll...,rab_2,Solved
+rab,check,a,a,id no changing?,rab_3,Solved
+mm12,Password change hoy na,axsfdvfbf,khulna,vasvsvdb,mm12_2,Solved
+mm12,blahblah,khulna,khulna,fbbggnhfnhnng,mm12_3,Solved
+rab,check,11,1217,check admin-client,rab_4,Pending
+rab,re,2,1218,bfgd,rab_5,Pending
+ava22,a2,aa,asd,trial 2,ava22_4,Pending
+rab,demo com,mirpur,dhaka,just a demo,rab_6,Pending
+ava22,asdf,a,21,demo,ava22_12,Pending
+ava22,demo 3,a,dhaka,just a demo,ava22_13,Pending
+ava22,kio,w,wc,maliha complaining :(,ava22_14,Pending
+mm12,asdfgg,abcd,sed,number increase of pending and solved,mm12_4,Pending
+mm12,dfbgndn,bncbn,cnfnnf,adminhhhj,mm12_5,Solved
+sde,asdf,cfgh,rongpur,math mile na,sde_1,Solved
+mm12,fgnfgmfmhm,fgnhfmhm, hm h ,fgnffhmhfmhm,mm12_6,Solved
+mm12,cncn ,bv  ,vcbvc,home e jay na,mm12_7,Solved
+mm12,zfsdgb,bgfn,gfnfgn,bdngnmnm,mm12_8,Pending
+ava22,kire,w,ww,kire.... ki obostha,ava22_15,Pending
+ava22,check,w,w3,....,ava22_16,Pending
+ava22,check 2,s,a,l,ava22_17,Pending
+ava22,check2,a,aa,a,ava22_18,Pending
+mm12,Kidnap,khulna,khulna,need help,mm12_9,Solved
+mm12,ABCD,Mirpur,Dhaka,abcd,mm12_10,Solved
+mm12,abr problem,chittagong,chittagong,sdvsvsb,mm12_11,Solved
+ma12,Eve teasing,Banani,Dhaka,Some boys spoke abusive words targeting me in front of my school,ma12_2,Solved
+ma12,Bullying,Sadar,Rangpur,Bullied by some seniors,ma12_3,Solved
+ma12,Demo,Ramna,Dhaka,This is a demo,ma12_4,Solved
+st22,Demo2,Dhoha,Bogura,Demo testing,st22_1,Solved
+ma12,Harassment,Ramna,Dhaka,Help me,ma12_1,Solved
+mm12,Harassment,Barisal,Barishal,Need help,mm12_1,Solved
+ava22,Verbal Abuse,Hatirjheel,Dhaka,Want justice,ava22_1,Pending
+ava22,abc,abcd,mirpur,hbushunkivdirm m ,ava22_2,Solved
+ava22,aaaa,ioji,mirpur,adg,ava22_3,Solved
+peko,buggggg,mirpur,bd,vallage na.. eto eto bug,peko_1,Pending
+rab24,a,aa,aaa,ki ,rab24_2,Pending
+mj_babui,Help,Polton,Dhaka,Help needed,mj_babui_1,Pending
+ava22,con,c,cc,dekhi ki hoy :(,ava22_6,Solved
+ava22,checking,a,aa,auto udate checking!,ava22_7,Solved
+rab,checking 2,e,e2,wellll,rab_1,Pending
+ava22,55,a,a,klvdid,ava22_8,Solved
+ava22,24,2,22,ahha,ava22_9,Pending
+ava22,checking 2,as,asap,again checking...,ava22_10,Pending
+ava22,check3,a,a,............,ava22_10,Solved
+rab,check,c,cc,welll...,rab_2,Solved
+rab,check,a,a,id no changing?,rab_3,Solved
+mm12,Password change hoy na,axsfdvfbf,khulna,vasvsvdb,mm12_2,Solved
+mm12,blahblah,khulna,khulna,fbbggnhfnhnng,mm12_3,Solved
+rab,check,11,1217,check admin-client,rab_4,Pending
+rab,re,2,1218,bfgd,rab_5,Pending
+ava22,a2,aa,asd,trial 2,ava22_4,Pending
+rab,demo com,mirpur,dhaka,just a demo,rab_6,Pending
+ava22,asdf,a,21,demo,ava22_12,Pending
+ava22,demo 3,a,dhaka,just a demo,ava22_13,Pending
+ava22,kio,w,wc,maliha complaining :(,ava22_14,Pending
+mm12,asdfgg,abcd,sed,number increase of pending and solved,mm12_4,Pending
+mm12,dfbgndn,bncbn,cnfnnf,adminhhhj,mm12_5,Solved
+sde,asdf,cfgh,rongpur,math mile na,sde_1,Solved
+mm12,fgnfgmfmhm,fgnhfmhm, hm h ,fgnffhmhfmhm,mm12_6,Solved
+mm12,cncn ,bv  ,vcbvc,home e jay na,mm12_7,Solved
+mm12,zfsdgb,bgfn,gfnfgn,bdngnmnm,mm12_8,Pending
+ava22,kire,w,ww,kire.... ki obostha,ava22_15,Pending
+ava22,check,w,w3,....,ava22_16,Pending
+ava22,check 2,s,a,l,ava22_17,Pending
+ava22,check2,a,aa,a,ava22_18,Pending
+mm12,Kidnap,khulna,khulna,need help,mm12_9,Solved
+mm12,ABCD,Mirpur,Dhaka,abcd,mm12_10,Solved
+mm12,abr problem,chittagong,chittagong,sdvsvsb,mm12_11,Solved
+ma12,Eve teasing,Banani,Dhaka,Some boys spoke abusive words targeting me in front of my school,ma12_2,Solved
+ma12,Bullying,Sadar,Rangpur,Bullied by some seniors,ma12_3,Solved
+ma12,Demo,Ramna,Dhaka,This is a demo,ma12_4,Solved
+st22,Demo2,Dhoha,Bogura,Demo testing,st22_1,Solved
+ma12,Help needed,Ramna,Dhaka,Please help me,ma12_5,Solved
