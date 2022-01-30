@@ -1,4 +1,4 @@
-# Harassment_Complaint_Management
+# Harassment Complaint Management System
 
 A complaint management system where harassment victims will inform about their sufferings and admins will solve their cases.
 
